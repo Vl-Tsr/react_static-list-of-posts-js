@@ -1,4 +1,4 @@
-export const UserInfo = ({user}) => (
+export const UserInfo = ({ user }) => (
   <p>
     {` Posted by `}
 
